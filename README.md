@@ -1,4 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Sai Durga Kamesh Kota</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ksdkamesh99" alt="ksdkamesh99" /> </p>
 
 <!--
 **ksdkamesh99/ksdkamesh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
