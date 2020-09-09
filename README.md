@@ -5,6 +5,28 @@
 <p align="center">My name is Sai Durga Kamesh Kota. I am currently pursing Bachelor of Technology in CSE in NIT Patna 2022 Batch. I am a very passionate Machine Learning Practitioner . I am currently working as Machine Learning Intern in <a href="https://github.com/ShapeAI">ShapeAI</a> .I love to compose code in Python,C++,Java. I am very interested in writing technical blogs in Medium & Other Publications. Most of my articles are about my challenges that I came across as a part of my learning. I hope you find it helpful. </p>
 
 
+<br>
+
+# Overview About Me:-
+
+- 🔭 I’m currently working on <strong>Intent Classification</strong>
+
+- 🌱 I’m currently learning **AWS Sagemaker,AWS Elastic BeanStalk,Django**
+
+- 🤔 My recently completed project is [KNN Visualiser](https://github.com/ksdkamesh99/KNN-Visualiser)
+
+- 👨‍💻 Some of my projects are available at my [Github](https://github.com/ksdkamesh99?tab=repositories)
+
+- 📝 I regulary write articles on [Medium](https://medium.com/@saidurgakameshkota),[Devmeet](https://devmeet.in/author/ksdkamesh99/)
+
+- 💬 Ask me about **Flask, Tensorflow Core, DSA,ML5.js,p5.js,Python**
+
+- 📫 How to reach me **ksdkamesh99@gmail.com**
+
+- ⚡ Fun fact **Most of the Programmers struggle with 2 things one is coffee and other is bugs**
+
+
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksdkamesh99&layout=compact&hide=html&theme=radical" alt="ksdkamesh99" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ksdkamesh99&show_icons=true&theme=radical" alt="ksdkamesh99" />
