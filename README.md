@@ -40,5 +40,6 @@ If you would like to discuss these things, you can join me on LinkedIn. You can 
 </p>
 
 
-<br><br>
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksdkamesh99" alt="ksdkamesh99" /> </p>
