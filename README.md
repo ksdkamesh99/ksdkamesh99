@@ -5,3 +5,5 @@
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksdkamesh99&layout=compact&hide=html&theme=radical" alt="ksdkamesh99" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ksdkamesh99&show_icons=true&theme=radical" alt="ksdkamesh99" />
