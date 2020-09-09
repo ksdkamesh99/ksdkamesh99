@@ -1,7 +1,8 @@
-<h1 align="center">Hi there 👋, I'm Sai Durga Kamesh Kota</h1>
+<h1 align="center">Hi there 👋, I'm Sai Durga Kamesh Kota 🤓<</h1>
 <h3 align="center">Machine Learning Engineer💻 || Junior in CSE at NIT Patna 👨‍🎓  || Pythoneer 🐍 || Blogger 🖊🖋</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ksdkamesh99" alt="ksdkamesh99" /> </p>
+
+<p align="center">My name is Sai Durga Kamesh Kota. I am currently pursing Bachelor of Technology in CSE in NIT Patna 2022 Batch. I am a very passionate Machine Learning Practitioner . I am currently working as Machine Learning Intern in <a href="https://github.com/ShapeAI">ShapeAI</a> .I love to compose code in Python,C++,Java. I am very interested in writing technical blogs in Medium & Other Publications. Most of my articles are about my challenges that I came across as a part of my learning. I hope you find it helpful. </p>
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksdkamesh99&layout=compact&hide=html&theme=radical" alt="ksdkamesh99" />
@@ -15,3 +16,7 @@ If you would like to discuss these things, you can join me on LinkedIn. You can 
 
 <p><a href="https://github.com/ksdkamesh99" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/saidurgakameshkota/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@saidurgakameshkota" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
+
+
+<br><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ksdkamesh99" alt="ksdkamesh99" /> </p>
