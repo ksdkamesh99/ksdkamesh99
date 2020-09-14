@@ -9,9 +9,9 @@
 
 # Overview About Me:-
 
-- 🔭 I’m currently working on <strong>Intent Classification</strong>
+- 🔭 I’m currently working on <strong>Artistic Style Transfer</strong>
 
-- 🌱 I’m currently learning **AWS Sagemaker,AWS Elastic BeanStalk,Django**
+- 🌱 I’m currently learning **AWS Sagemaker,Django**
 
 - 🤔 My recently completed project is [KNN Visualiser](https://github.com/ksdkamesh99/KNN-Visualiser)
 
@@ -19,7 +19,7 @@
 
 - 📝 I regulary write articles on [Medium](https://medium.com/@saidurgakameshkota),[Devmeet](https://devmeet.in/author/ksdkamesh99/)
 
-- 💬 Ask me about **Flask, Tensorflow Core, DSA,ML5.js,p5.js,Python**
+- 💬 Ask me about **Flask, Tensorflow Core, DSA,ML5.js,p5.js,Python,AWS Elastic BeanStalk,AWS EC2,Tensorflow Lite**
 
 - 📫 How to reach me **ksdkamesh99@gmail.com**
 
