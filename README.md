@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **AWS,Azure**
 
-- 🤔 My recently completed project is [](https://github.com/ksdkamesh99/KNN-Visualiser)
+- 🤔 My recently completed project is [TensorGram](https://github.com/ksdkamesh99/TensorGram)
 
 - 👨‍💻 Some of my projects are available at my [Github](https://github.com/ksdkamesh99?tab=repositories)
 
