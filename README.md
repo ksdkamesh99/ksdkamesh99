@@ -2,7 +2,7 @@
 <h3 align="center">Google DSC ML Lead || Machine Learning Engineer💻 || Junior in CSE at NIT Patna 👨‍🎓  || Pythoneer 🐍 || Blogger || Open Source Freak || Aspiring SDE🖋</h3>
 
 
-<p align="center">My name is Sai Durga Kamesh Kota. I am currently pursing Bachelor of Technology in CSE in NIT Patna 2022 Batch. I am holding a position of Google DSC ML Lead at NIT Patna I am a very passionate Machine Learning Practitioner . I recently completed working as Machine Learning Intern in <a href="https://github.com/ShapeAI">ShapeAI</a> .I love to compose code in Python,C++,Java. I am very interested in writing technical blogs in Medium & Other Publications. Most of my articles are about my challenges that I came across as a part of my learning. I hope you find it helpful. </p>
+<p align="center">My name is Sai Durga Kamesh Kota. I am currently pursing Bachelor of Technology in CSE in NIT Patna 2022 Batch. I am holding a position of Google DSC ML Lead at NIT Patna I am a very passionate Machine Learning Practitioner.I love to compose code in Python,C++,Java. I am very interested in writing technical blogs in Medium & Other Publications. Most of my articles are about my challenges that I came across as a part of my learning. I hope you find it helpful. </p>
 
 
 <br>
