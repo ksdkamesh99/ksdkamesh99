@@ -44,3 +44,4 @@ If you would like to discuss these things, you can join me on LinkedIn. You can 
 
 <br>
 
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
